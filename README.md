@@ -1,4 +1,4 @@
-# Hi, I'm Bimal Patra 👋
+# Hi, I'm Bimal Patra  👋
 
 ### MIS Reporting & ERP Automation
 
