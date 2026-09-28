@@ -6,69 +6,19 @@ Connecting data, technology, and plant operations through practical reporting, d
 
 **Officer – Artificial Intelligence Process · SGX Minerals Pvt Ltd**
 
-[Portfolio](https://bimal-agg-erp.github.io/Portfolio-/) · [Projects](https://bimal-agg-erp.github.io/Portfolio-/#projects) · [LinkedIn](https://www.linkedin.com/in/bimalts789/) · [View CV](https://github.com/bimal-bp/Portfolio-/raw/refs/heads/main/bimal_patra.CV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=githubpages&logoColor=white)](https://bimal-agg-erp.github.io/Portfolio-/)
+[![Projects](https://img.shields.io/badge/Projects-View-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://bimal-agg-erp.github.io/Portfolio-/#projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimalts789/)
+[![View CV](https://img.shields.io/badge/View-CV-B45309?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/bimal-bp/Portfolio-/raw/refs/heads/main/bimal_patra.CV.pdf)
 
 ---
 
 ## 🛠️ Skills
 
-<table>
-<tr>
-
-<td align="center" width="50%">
-<h3>📈 Excel & MIS</h3>
-
-<img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel">
-
-<br>
-
-<img src="https://img.shields.io/badge/MIS_Reporting-0F766E?style=for-the-badge" alt="MIS Reporting">
-
-</td>
-
-<td align="center" width="50%">
-<h3>⚙️ ERP & Automation</h3>
-
-<img src="https://img.shields.io/badge/ERP_Development-7C3AED?style=for-the-badge" alt="ERP Development">
-
-<br>
-
-<img src="https://img.shields.io/badge/ERP_Enhancement-6D28D9?style=for-the-badge" alt="ERP Enhancement">
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-<h3>🏭 Operations</h3>
-
-<img src="https://img.shields.io/badge/Quarry_&_Plant-B45309?style=for-the-badge" alt="Quarry and Plant">
-
-<br>
-
-<img src="https://img.shields.io/badge/Dispatch_Operations-EA580C?style=for-the-badge" alt="Dispatch Operations">
-
-<br>
-
-<img src="https://img.shields.io/badge/Accounts-334155?style=for-the-badge" alt="Accounts">
-
-</td>
-
-<td align="center" width="50%">
-<h3>🤝 Leadership</h3>
-
-<img src="https://img.shields.io/badge/Team_Leadership-BE185D?style=for-the-badge" alt="Team Leadership">
-
-<br>
-
-<img src="https://img.shields.io/badge/Team_Collaboration-059669?style=for-the-badge" alt="Team Collaboration">
-
-</td>
-
-</tr>
-</table>
+- 📈 **Advanced Excel & MIS Reporting**
+- ⚙️ **ERP Module Development & Enhancement**
+- 🏭 **Operations – Quarry, Plant, Dispatch, QC & Accounts**
+- 🤝 **Leadership – Team Leadership & Collaboration**
 
 ---
 
