@@ -10,11 +10,13 @@ Connecting data, technology, and plant operations through practical reporting, d
 
 ---
 
-## Skills
+## Skills & Expertise ✨
 
-📊 **Advanced Excel & MIS Reporting**  &nbsp;&nbsp;&nbsp; 📈 **Data Analysis & ERP Development**
+📊 **Advanced Excel & MIS Reporting** &nbsp;&nbsp;&nbsp;&nbsp; 📈 **Data Analysis & ERP Development**  
+*Dynamic dashboards, automation & real-time MIS reporting* &nbsp;&nbsp; | &nbsp;&nbsp; *ERP modules, KPI frameworks & business intelligence*
 
-⛏️ **Accounts, Quarry, Plant, Dispatch & QC Operations**  &nbsp;&nbsp;&nbsp; 🤖 **AI Productivity Tools & Team Leadership**
+⛏️ **Accounts, Quarry, Plant, Dispatch & QC Operations** &nbsp;&nbsp;&nbsp;&nbsp; 🤖 **AI Productivity Tools & Team Leadership**  
+*End-to-end operational control* &nbsp;&nbsp; | &nbsp;&nbsp; *AI-powered workflows, automation & team collaboration*
 
 ---
 
