@@ -42,17 +42,9 @@ Connecting **data, technology, and plant operations** through practical reportin
 
 Appreciation received from my **Executive Director, Team Lead, and IT Head**.
 
-<a href="https://raw.githubusercontent.com/bimal-bp/Portfolio-/main/ED-Rajesh%20sir-Feedback.jpeg">
-  <img src="https://img.shields.io/badge/Executive_Director-Rajesh_Sir-1E3A8A?style=for-the-badge" height="34">
-</a>
-
-<a href="https://raw.githubusercontent.com/bimal-bp/Portfolio-/main/TL.jpeg">
-  <img src="https://img.shields.io/badge/Team_Lead-Appreciation-7C3AED?style=for-the-badge" height="34">
-</a>
-
-<a href="https://raw.githubusercontent.com/bimal-bp/Portfolio-/main/It-head%20Feedaback.jpeg">
-  <img src="https://img.shields.io/badge/IT_Head-Appreciation-0F766E?style=for-the-badge" height="34">
-</a>
+- [**Executive Director — Rajesh Sir**](https://raw.githubusercontent.com/bimal-bp/Portfolio-/main/ED-Rajesh%20sir-Feedback.jpeg)
+- [**Team Lead — Appreciation**](https://raw.githubusercontent.com/bimal-bp/Portfolio-/main/TL.jpeg)
+- [**IT Head — Appreciation**](https://raw.githubusercontent.com/bimal-bp/Portfolio-/main/It-head%20Feedaback.jpeg)
 
 ---
 
@@ -62,8 +54,6 @@ Connect with me about **Data Analytics, Business Intelligence, MIS Reporting, ER
 
 <br>
 
-<p align="left">
-
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bimalpatrabp9@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38">
 </a>
@@ -72,11 +62,7 @@ Connect with me about **Data Analytics, Business Intelligence, MIS Reporting, ER
   <img src="https://img.shields.io/badge/LinkedIn-CONNECT_WITH_ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38">
 </a>
 
-<a href="tel:+919348245158">
-  <img src="https://img.shields.io/badge/Phone-+91_9348245158-16A34A?style=for-the-badge&logo=phonepe&logoColor=white" height="38">
-</a>
-
-</p>
+**Phone:** +91 9348245158
 
 ---
 
