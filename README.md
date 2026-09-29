@@ -4,7 +4,7 @@
 
 Connecting **data, technology, and plant operations** through practical reporting, dashboards, ERP enhancement, and process automation.
 
-**Officer – Artificial Intelligence Process · SGX Minerals Pvt Ltd**
+### **Officer – Artificial Intelligence Process · SGX Minerals Pvt Ltd**
 
 <br>
 
@@ -62,7 +62,7 @@ Connect with me about **Data Analytics, Business Intelligence, MIS Reporting, ER
   <img src="https://img.shields.io/badge/LinkedIn-CONNECT_WITH_ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38">
 </a>
 
-**Phone:** +91 9348245158
+### **Phone:** +91 9348245158
 
 ---
 
