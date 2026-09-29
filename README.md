@@ -14,7 +14,7 @@ Connecting **data, technology, and plant operations** through practical reportin
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_NOW-0F766E?style=for-the-badge&logo=githubpages&logoColor=white" height="38">
 </a>
 
-<a href="https://www.linkedin.com/in/bimalts789/">
+<a href="https://www.linkedin.com/in/bimalpatra/">
   <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38">
 </a>
 
